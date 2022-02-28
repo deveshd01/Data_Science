@@ -1,0 +1,17 @@
+company,job,degree,salary_more_then_100k
+google,sales,btech,0
+google,sales,mtech,0
+google,business,btech,1
+google,business,mtech,1
+google,computer,btech,0
+google,computer,mtech,1
+amazon,sales,mtech,0
+amazon,computer,btech,0
+amazon,business,btech,0
+amazon,business,mtech,1
+fb,sales,btech,1
+fb,sales,mtech,1
+fb,business,btech,1
+fb,business,mtech,1
+fb,computer,btech,1
+fb,computer,mtech,1
